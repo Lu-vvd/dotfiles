@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lucie.vivalda@gmail.com
+	name = Lucie Vivalda
